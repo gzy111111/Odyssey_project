@@ -1,0 +1,10 @@
+{
+    "searcher":
+    {
+        "indexfile": "/Users/ddzhang/Database/SHREC12/index_file",
+        "filelist": "/Users/ddzhang/Database/SHREC12/filelist",
+        "vocabulary": "/Users/ddzhang/Database/SHREC12/vocabulary",
+        "results_num": "12",
+        "views_num": "102"
+    }
+}
